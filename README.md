@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zichen Wu.
-- 👀 I’m interested in Object-oriented programming, machine learning, and predictive analytics.
+- 👀 I’m interested in Java.
 - 🌱 I’m currently learning Java, Python, and AWS.
 - 💞️ I’m looking to collaborate on developing interactive games and applications.
 - 📫 How to reach me: Please send me message.
