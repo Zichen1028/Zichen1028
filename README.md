@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zichen Wu.
-- 👀 I’m interested in Java.
+- 👋 Hi, I’m @Zichen.
+- 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Java, Python, and AWS.
 - 💞️ I’m looking to collaborate on developing interactive games and applications.
 - 📫 How to reach me: Please send me a message.
