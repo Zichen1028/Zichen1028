@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zichen.
 - 👀 I’m interested in Software Development and Machine Learning.
-- 🌱 I’m currently learning C#, .NET, Azure, Java, Python, and AWS.
+- 🌱 I’m currently working on .NET, Spring, Python, AWS/Azure.
 - 💞️ I’m looking to collaborate on developing interactive games and applications.
 - 📫 How to reach me: Please send me a message.
 
