@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zichen.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently working on Spring Boot, React, AWS/Azure, Docker.
+- 🌱 I’m currently working on Spring Boot, node.js, React, AWS/Azure, Docker.
 - 💞️ I focus on the full-stack development of web applications.
 - 📫 How to reach me: Please send me a message.
 
